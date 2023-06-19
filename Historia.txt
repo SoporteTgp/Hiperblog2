@@ -3,3 +3,5 @@ Esta es la Historia de Luis
 Luis tiene 36 y nacio en Peru.
 
 Henry tiene 41 y nacio en internet.
+
+Royer es una persona que contribuye a este proyecto open source.
